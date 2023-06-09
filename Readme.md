@@ -1,8 +1,4 @@
 # Hotel Booking
-
-## Workflow
-<img src='./hotelapp.gif'>
-
 ## Problem Statement
 1.  Take a sample JSON for a list of Hotels
 2.  The hotel shall have most basic identifying fields
