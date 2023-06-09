@@ -1,4 +1,4 @@
-# Hotel Booking & Recommendations
+# Hotel Booking
 
 ## Workflow
 <img src='./hotelapp.gif'>
